@@ -1,5 +1,5 @@
-/* eslint-disable no-unused-expressions */
-const calculator = require('./calculator');
+/* eslint-disable no-unused-expressions */ // //\r\n
+const calculator = require('./calculator.js');
 
 describe('_check', () => {
   beforeEach(() => {
